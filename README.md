@@ -13,30 +13,30 @@ Cette mise en situation doit permettre de mieux comprendre et appréhender la di
  * de tenir les dates de rendu 
  * de valider de manière continue les exigences et l’implémentation
  
-Les objectifs et l'organisation de PDL sont décrits dans [un document au format PDF](resources/projetPDL2018-2019.pdf)
+Les objectifs et l'organisation de PDL sont décrits dans [un document au format PDF](projetPDL2019-2020.pdf)
  
 ## Projet: Wikipedia Matrix 
 
 L'objectif du projet PDL 2019-2020 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
-Le projet est décrit dans [un document au format PDF](XXX.pdf)
+C'est la suite du projet 2018-2019: http://blog.mathieuacher.com/WikipediaMatrixChallenge/ 
 
-La composition des groupes est à remplir en ligne avant le MMM septembre, 13h:
-YYY
+Le projet est décrit dans [un document au format PDF](projetPDL2019-2020-WikipediaMatrix.pdf)
 
-http://blog.mathieuacher.com/WikipediaMatrixChallenge/
-
-**Un projet Maven est disponible pour participer au [concours d'extraction](https://github.com/acherm/wikipediamatrix-bench)**: il faut intégrer le code de vos extracteurs et générer les fichiers CSV dans le dossier "output".
+La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
+https://tinyurl.com/PDL1920
+Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h. 
 
 ## Dates de rendu
 
- * EX : (23h59)  
- * SP : (23h59)
- * PR : 
+ * EX : 15 octobre 2019 (23h59)  
+ * SP1 : 15 novembre 2019 (23h59)
+ * SP2 : 20 décembre 2019 (23h59)
+ * PR : mi-janvier 2020  
 
 
 ## Années précédentes 
  
-Matériel des années précédentes: http://mathieuacher.com/teaching/PDL/
+Matériel des années précédentes: https://github.com/acherm/PDL1819/ http://mathieuacher.com/teaching/PDL/
  
 Les projets ont été très variés et changent chaque année (analyse de données issues d'OpenFoodFacts, Wikipedia, Wikidata, d'échecs, de l'impression 3D, contributions à un projet comme FAMILIAR ou opencompare, etc.) mais l'objectif pédagogique reste le même. 
 

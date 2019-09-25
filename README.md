@@ -26,6 +26,8 @@ La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
 https://tinyurl.com/PDL1920
 Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h. 
 
+Pour chaque projet à reprendre, effectuez un *fork* du repository Github (un seul par groupe): ce sera votre repository jusqu'à la fin du projet. **Indiquer l'URL de votre repository Github sur la feuille Google sheet** 
+
 ## Dates de rendu
 
  * EX : 15 octobre 2019 (23h59)  

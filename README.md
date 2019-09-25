@@ -24,7 +24,7 @@ Le projet est décrit dans [un document au format PDF](projetPDL2019-2020-Wikipe
 
 La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
 https://tinyurl.com/PDL1920
-Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h. 
+Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h: *cf la feuille Google sheet et les assignations*
 
 Pour chaque projet à reprendre, effectuez un *fork* du repository Github (un seul par groupe): ce sera votre repository jusqu'à la fin du projet. **Indiquer l'URL de votre repository Github sur la feuille Google sheet** 
 

@@ -28,7 +28,7 @@ Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercred
 
 Pour chaque projet à reprendre, effectuez un *fork* du repository Github (un seul par groupe): ce sera votre repository jusqu'à la fin du projet. **Indiquer l'URL de votre repository Github sur la feuille Google sheet** 
 
-**Du println() aux test automatiques et à l'intégration continue**: slides en ligne! Un des objectifs de votre projet est de mettre en oeuvre des tests automatiques et de l'intégration continue pour valider et continuellement améliorer vos extracteurs. 
+**Du println() aux test automatiques et à l'intégration continue**: slides en ligne, cf `CM-validation-1920.pdf`! Un des objectifs de votre projet est de mettre en oeuvre des tests automatiques et de l'intégration continue pour valider et continuellement améliorer vos extracteurs. 
 
 
 

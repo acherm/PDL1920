@@ -20,7 +20,7 @@ Les objectifs et l'organisation de PDL sont décrits dans [un document au format
 L'objectif du projet PDL 2019-2020 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
 C'est la suite du projet 2018-2019: http://blog.mathieuacher.com/WikipediaMatrixChallenge/ 
 
-Le projet est décrit dans [un document au format PDF](projetPDL2019-2020-WikipediaMatrix.pdf)
+Le projet est décrit dans [un document au format PDF](projetPDL2019-2020-WikipediaMatrixTheTruth.pdf)
 
 La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
 https://tinyurl.com/PDL1920

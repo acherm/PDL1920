@@ -26,9 +26,12 @@ La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
 https://tinyurl.com/PDL1920
 Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h: *cf la feuille Google sheet et les assignations*
 
-Pour chaque projet à reprendre, effectuez un *fork* du repository Github (un seul par groupe): ce sera votre repository jusqu'à la fin du projet. **Indiquer l'URL de votre repository Github sur la feuille Google sheet** 
+Pour chaque projet à reprendre, effectuez un *fork* du repository Github (un seul par groupe): ce sera votre repository jusqu'à la fin du projet. Indiquer l'URL de votre repository Github sur la feuille Google sheet
 
 **Du println() aux test automatiques et à l'intégration continue**: slides en ligne, cf `CM-validation-1920.pdf`! Un des objectifs de votre projet est de mettre en oeuvre des tests automatiques et de l'intégration continue pour valider et continuellement améliorer vos extracteurs. 
+
+**De nouvelles instructions pour le sprint 2 sont disponibles en ligne**: 
+https://docs.google.com/document/d/1F51vgNWYc_Eps0UiJWT0tQrvLozyZ2cqUFTOXivOtlM/edit?usp=sharing
 
 
 
